@@ -1,0 +1,58 @@
+body {
+  overflow-x:hidden;
+}
+img {
+  width: 100%;
+}
+.btn-primary {
+  background-color: #f5677b;
+  border-color: #f5677b;
+}
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #e1384e;
+  border-color: #e1384e;
+}
+.rounded-img {
+  width: 70%;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  padding: 0.6em;
+  margin-bottom: 1em;
+}
+.card {
+  border-radius: 1em;
+  text-align: center;
+  padding: 1em;
+}
+.card:hover,
+.card:focus {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.card img {
+  border-radius: 50%;
+  width: 70%;
+  margin: auto;
+}
+.border-no {
+  border: none;
+  border-radius: 10%!important;
+}
+.my-carousel {
+  margin: auto;
+}
+
+.row {
+  margin-top: 32px;
+}
+.card {
+  height: 700px;
+}
+
+/* .nav-link {
+  color: #f5677b;
+} */
+.sticky-bottom {
+  width: 100%;
+  border-top: 1px solid rgba(0,0,0,.125);
+}
