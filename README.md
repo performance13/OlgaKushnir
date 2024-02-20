@@ -1,1 +1,1 @@
-Awesome
+My awesome trip
